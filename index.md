@@ -1,37 +1,53 @@
-## Welcome to GitHub Pages
+# プライバシーポリシー
+## 個人情報の利用目的
+- 当サービスでは、利用中に利用者の生体データを取得します。このデータは、	データ解析サービスの提供するため以外では利用いたしません。
+- 当サービスでは、メールでのお問い合わせ、当サービスの登録などの際に、名前（ハンドルネーム）、メールアドレス等の個人情報をご登録いただく場合がございます。
+これらの個人情報は質問に対する回答や必要な情報を電子メールなどをでご連絡する場合に利用させていただくものであり、個人情報をご提供いただく際の目的以外では利用いたしません。
 
-You can use the [editor on GitHub](https://github.com/moipon/privacy_policy/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## 個人情報の第三者への開示
+当サービスでは、個人情報は適切に管理し、以下に該当する場合を除いて第三者に開示することはありません。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- あらかじめ利用者本人の同意を得た場合
+- 人の生命、身体または財産の保護のために必要がある場合であって、利用者本人の同意を得ることが困難である場合
+- 公衆衛生の向上または児童の健全な育成の推進のために特に必要がある場合であって、利用者本人の同意を得ることが困難である場合
+- 国の機関若しくは地方公共団体またはその委託を受けた者が法令の定める事務を遂行することに対して協力する必要がある場合であって、利用者本人の同意を得ることにより当該事務の遂行に支障を及ぼすおそれがある場合
+- ①裁判手続（裁判所の命令、召喚令状、捜索令状など）その他政府当局の法定事項に従うために合理的に必要である、②実際に起きている、または、起きる可能性のある訴訟において、責任を軽減する可能性がある、③その他、権利または財産を保護するために必要である、または④他の利用者の利益を保護するために必要である、と考える場合
+- 利用者情報の利用目的の達成に必要な範囲において、第三者にその取扱いの全部または一部を委託する場合
+- サービス運営者変更等などによって、サービス承継されるに伴って、その実際のまたは潜在的な承継先に利用者情報が提供される場合
+- その他の法令により開示または提供義務が定められ若しくは開示または提供することが認められている場合
 
-### Markdown
+## 個人情報の開示、訂正、追加、削除、利用停止
+ご本人からの個人データの開示、訂正、追加、削除、利用停止のご希望の場合には、ご本人であることを確認させていただいた上、速やかに対応させていただきます。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 免責事項
+当サービスからリンクやバナーなどによって他のサイトに移動された場合、移動先サイトで提供される情報、サービス等について一切の責任を負いません。
+当サービスのコンテンツ・情報につきまして、可能な限り正確な情報を掲載するよう努めておりますが、誤情報が入り込んだり、情報が古くなっていることもございます。
+当サービスに掲載された内容によって生じた損害等の一切の責任を負いかねますのでご了承ください。
 
-```markdown
-Syntax highlighted code block
+## クッキー（Cookie）の利用
+以下の目的のためにクッキーを利用しています。
 
-# Header 1
-## Header 2
-### Header 3
+- 利用者ごとにカスタマイズされたサービスを提供するため
+- 最も適切な広告を他社サイト上で表示するため
+- 当社サイトの利用者数やトラフィックを調査するため
+- 当社のサービスを改善するため
+- セキュリティ保持のために利用者にパスワード等の再入力を促すため
 
-- Bulleted
-- List
+広告配信事業者との委託契約に基づき、同者を経由して、当社のクッキーを保存または参照する場合があります。
 
-1. Numbered
-2. List
+## 統計データの利用
+利用者情報をもとに特定の個人を識別できない形式による統計データを作成します。当該統計データを何らの制限なく利用することができるものとします。
 
-**Bold** and _Italic_ and `Code` text
+## 委託先の監督
+利用者へのサービス提供のために、利用者情報の取扱いを第三者に委託することがあります。この場合、これらの情報を適正に取扱う委託先を選定し、当該委託先が情報を安全に管理するように合理的な措置をとります。
 
-[Link](url) and ![Image](src)
-```
+## 安全性
+インターネット上のデータ送信が100％安全であることは保証できません。合理的な努力をしますが、ファイアウォールおよび安全なサーバーソフトが侵害され、当該情報が閲覧、開示、変更または破壊されないことを保証することはできません。したがって、利用者は、ご自身の責任において送信するものとします。
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## プライバシーポリシーの変更について
+当サービスは、個人情報に関して適用される日本の法令を遵守するとともに、本ポリシーの内容を適宜見直しその改善に努めます。
+修正された最新のプライバシーポリシーは常に本ページにて開示されます。
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/moipon/privacy_policy/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## 利用者情報に関するお問い合わせ
+ご提供いただいた利用者情報の訂正、利用停止、削除など利用者情報の取扱いに関するお問い合わせは、こちらのTwitterアカウントにDMをお送りください。よろしくお願いいたします。  
+https://twitter.com/moipon_tw 
