@@ -50,4 +50,4 @@
 
 ## 利用者情報に関するお問い合わせ
 ご提供いただいた利用者情報の訂正、利用停止、削除など利用者情報の取扱いに関するお問い合わせは、こちらのTwitterアカウントにDMをお送りください。よろしくお願いいたします。  
-https://twitter.com/moipon_tw 
+[https://twitter.com/moipon_tw](https://twitter.com/moipon_tw)
